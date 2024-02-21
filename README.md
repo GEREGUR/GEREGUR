@@ -83,7 +83,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/GEREGUR/GEREGUR/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GEREGUR/GEREGUR/output/snake.svg" alt="Snake animation" />
 
 ###
 
