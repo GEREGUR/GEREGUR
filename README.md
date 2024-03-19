@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is George and I'm a frontend dev</h2>
-<h3>ER11 web studio is here and soon will e everywhere :)</h3>
+<h3>ER11 studio is here and soon will e everywhere :)</h3>
 
 ###
 
