@@ -1,1 +1,1 @@
-<img align="right" height="150" src="https://media1.tenor.com/m/GW4CQr64-YkAAAAC/worried-scared.gif"  />
+<div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/3osBLA53AVzn746dXi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pursed-lips-puckered-conceited-rapper-3osBLA53AVzn746dXi">via GIPHY</a></p>
